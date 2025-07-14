@@ -30,20 +30,7 @@
 
 ---
 
-## 🚀 Current Projects
 
-- 🎓 **[College Companion](https://github.com/surajgunjal/college-companion)** – AI-powered student portal for mentorship, career guidance, and safety
-- 👓 **[VocaVision](https://github.com/surajgunjal/vocavision)** – Smart Spectacles with Real-Time Captioning, Translation, and Visual Cues (Patent in progress)
-
----
-
-## 📊 GitHub Stats
-
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=surajgunjal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surajgunjal&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=surajgunjal&theme=radical)
-
----
 
 ## 💡 Fun Fact
 
@@ -54,9 +41,9 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-gunjal/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgunjal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surajgunjal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SurajGunjal/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgunjalofficial@gmail.com)
 
 ---
 

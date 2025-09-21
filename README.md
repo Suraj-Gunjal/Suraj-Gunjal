@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Suraj Gunjal!
 
 🎓 CSE AIML @ VIIT Pune  
-🏆 State Topper 10th | Dept. Topper (1st and 2nd Year) | 9.9 SGPA  
+🏆 State Topper 10th | Dept. Topper  | 9.9 SGPA  
 🧠 Obsessed with AI/ML, Java, Problem Solving & Innovation 
 📈 LeetCode 🔥 600+ Questions
 

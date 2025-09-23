@@ -1,4 +1,6 @@
-# 👋 Hey there, I'm Suraj Gunjal!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Suraj+Gunjal;" alt="Typing SVG" />
+</h1>
 
 🎓 CSE AIML @ VIIT Pune  
 🏆 State Topper 10th | Dept. Topper  | 9.9 SGPA  

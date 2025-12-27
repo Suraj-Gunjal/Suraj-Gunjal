@@ -5,7 +5,7 @@
 ### CSE AIML @ VIIT Pune  
 ### State Topper 10th | Dept. Topper  | 9.9 SGPA  
 ### Obsessed with AI/ML, Java, Problem Solving & Innovation 
-### LeetCode 🔥 700+ Questions
+### Knight@LeetCode 🔥 850+ Questions
 
 <div align="center"> 
 <h1 align="center">Leetcode Info<h1>  
